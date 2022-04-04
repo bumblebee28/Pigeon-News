@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 2394,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Karissa Bell",
+            "title": "Wordle' clones are taking over the App Store",
+            "description": "If you’ve spent any time on Twitter in the last week, chances are you’ve seen the grids of emoji boxes taking over your feed. That’s thanks to Wordle\r\n, a new puzzle game that’s become somewhat of an obsession for many since The New York Timeswrote about\r\n it…",
+            "url": "https://www.engadget.com/wordle-clones-app-store-232042208.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/91d3dcb0-7333-11ec-bffc-bef7f2245890",
+            "publishedAt": "2022-01-11T23:20:42Z",
+            "content": "If youve spent any time on Twitter in the last week, chances are youve seen the grids of emoji boxes taking over your feed. Thats thanks to Wordle\r\n, a new puzzle game thats become somewhat of an obs… [+2527 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Apple promises third-party payment options in iOS for South Korean users",
+            "description": "Apple will allow third-party payment options for the first time in iOS apps in South Korea. Google announced similar concessions following legislation designed to weaken Apple and Google’s grip on their respective app stores.",
+            "url": "https://www.theverge.com/2022/1/11/22877952/apple-third-party-payments-app-store-south-korea",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/r9UQpwU7k-G2aeq6L8OPdaS9jKc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11477053/acastro_180604_1777_apple_wwdc_0004.jpg",
+            "publishedAt": "2022-01-11T11:56:47Z",
+            "content": "Apple gives up in South Korea, but the terms of surrender are still unclear\r\nIllustration by Alex Castro / The Verge\r\nApple says it will introduce third-party payment options for the first time ever … [+2356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Apple implies it generated record revenue from the App Store during 2021",
+            "description": "<table><tr><td></td></tr>\r\n</table>Apple CEO Tim Cook speaks at Apple’s Worldwide Developer Conference (WWDC) at the San Jose Convention Center in San Jose, California on Monday, June 4, 2018.<table><tr><td>Josh Edelson | AFP | Getty Images\r\n</td></tr>\r\n</tab…",
+            "url": "https://techncruncher.blogspot.com/2022/01/apple-implies-it-generated-record.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEg8paHzunXo4kyqclhpYqXrAYWDrbEwj7nj8QDhOxR3RN3zbKQyJy4Ew44lVkpQLKdr4b96hzHwRTgzGznwO9317MXY6HaKtjIejlZoJIUf36gYuYPHiHAgNxcxW5Gvi4R82dUbVaxE_k6VhGD_ceGGpPBJzQ6dubRVitAysHOGc_3zlWdoybK4iYl9Sg=w1200-h630-p-k-no-nu",
+            "publishedAt": "2022-01-11T12:10:00Z",
+            "content": "Apple CEO Tim Cook speaks at Apple’s Worldwide Developer Conference (WWDC) at the San Jose Convention Center in San Jose, California on Monday, June 4, 2018.\r\n<table><tr><td></td></tr>\r\n</table>Apple… [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Microsoft Discovered New 'Powerdir' macOS Vulnerability, Fixed in 12.1 Update",
+            "description": "This morning, Microsoft's 365 Defender research team released details of a new macOS \"Powerdir\"  vulnerability that allows an attacker to bypass transparency, consent, and control technology to gain unauthorized access to protected data. \r\nApple has already f…",
+            "url": "https://techncruncher.blogspot.com/2022/01/microsoft-discovered-new-powerdir-macos.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjuK_kLg9iYNZGFqm_1r6f5zWBw-nuMhX5QfT69CpqmL676vUBULGT0zs7866_0U7eFeSywU7TouO0G7uLrmxjP_XJnBBsOg2swCiCSBrOcXIl5fASPBOY4UDgQfLwhBHDVRxv-dT_zXPWuu6DrEPW7kQ24Hha0DWvFbLCVbjuCHx6WxrcV2rCryyn3-A=w1200-h630-p-k-no-nu",
+            "publishedAt": "2022-01-11T13:49:00Z",
+            "content": "This morning, Microsoft's 365 Defender research team released details of a new macOS \"Powerdir\"  vulnerability that allows an attacker to bypass transparency, consent, and control technology to gain … [+1302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Shazam launches Chrome Extension to identify what’s playing in any tab, but it’s broken for some [U]",
+            "description": "Apple-owned Shazam has just released a Chrome Extension that works to identify what’s playing in your “Netflix or YouTube video, that Soundcloud mix or in a Twitch streamed video game,” but it doesn’t work for all users just yet. After installation, Shazam ex…",
+            "url": "https://techncruncher.blogspot.com/2022/01/shazam-launches-chrome-extension-to.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh3LV9B7leCLqNfMSeOwI9deYhc_CSyUL56yNzOuICkWHEmlufVO35ppwhlsbTyAhTo4uWMBQBtN2tPMAD3ZuiejPiSRYH0-1ZKnHFc6KWl1wBJ2aI3m6Mod9pFr3UMdm5TvEDdUwyfFs41yRFp2s2JvhV3Q_lQlEyFkZS_qMHnX_QmKNbgKBQfpn10EQ=w1200-h630-p-k-no-nu",
+            "publishedAt": "2022-01-11T13:20:00Z",
+            "content": "Apple-owned Shazam has just released a Chrome Extension that works to identify what’s playing in your “Netflix or YouTube video, that Soundcloud mix or in a Twitch streamed video game,” but it doesn’… [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "Google Exec Urges Apple to Adopt a Universal Messaging Standard",
+            "description": "Once again, people are talking about how Apple won’t play nice with Android devices. This time Google Senior Vice President Hiroshi Lockheimer, who oversees Android, is taking Apple to task over the green bubble struggle and urging the company to embrace a ne…",
+            "url": "https://gizmodo.com/google-exec-urges-apple-to-adopt-a-universal-messaging-1848336039",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5a1107914e742c10ff40ae80437d3c09.jpg",
+            "publishedAt": "2022-01-11T01:30:13Z",
+            "content": "Once again, people are talking about how Apple wont play nice with Android devices. This time Google Senior Vice President Hiroshi Lockheimer, who oversees Android, is taking Apple to task over the g… [+3573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Phillip Tracy",
+            "title": "Microsoft's Surface Laptop SE Teardown Video Is a Major Win for Right to Repair",
+            "description": "When Microsoft released its first Surface devices 10 years ago, people were quick to make comparisons to Apple products not only because of their minimalist aesthetic, but also because they were impossible to repair at home. For years, these machines were so …",
+            "url": "https://gizmodo.com/microsofts-surface-laptop-se-teardown-video-is-a-major-1848335493",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6b552e1c67cebbcb8614846841e0744b.jpg",
+            "publishedAt": "2022-01-11T00:50:00Z",
+            "content": "When Microsoft released its first Surface devices 10 years ago, people were quick to make comparisons to Apple products not only because of their minimalist aesthetic, but also because they were impo… [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Game maker says Apple, Google selling rip-offs in new lawsuit - Reuters",
+            "description": "The maker of the popular game \"PlayerUnknown's Battlegrounds\" says in a new U.S. lawsuit that a Singapore-based company made rip-off versions of its game, and Apple and Google have refused to stop selling them.",
+            "url": "https://www.reuters.com/legal/litigation/game-maker-says-apple-google-selling-rip-offs-new-lawsuit-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/lKOCENIblpDHh1I9NMS5sPOI48o=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/77C6YMCHBVPPTBFVLTSGQ3R64M.jpg",
+            "publishedAt": "2022-01-11T17:41:00Z",
+            "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+2158 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Japan toaster startup smartphone foray craters stock price - Reuters",
+            "description": "A foray into smartphones by Japan's Balmuda Inc <a href=\"https://www.reuters.com/companies/6612.T\" target=\"_blank\">(6612.T)</a>, best known for its high-end toasters, has cratered its stock price with the firm announcing this week it has halted sales of its p…",
+            "url": "https://www.reuters.com/markets/europe/japan-toaster-startup-smartphone-foray-craters-stock-price-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/yC3qdznuYiWo5wFIrMhEt3F9TeE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OJXN7SK4DBO6NGMB32MJEOBZ64.jpg",
+            "publishedAt": "2022-01-11T05:24:00Z",
+            "content": "TOKYO, Jan 11 (Reuters) - A foray into smartphones by Japan's Balmuda Inc (6612.T), best known for its high-end toasters, has cratered its stock price with the firm announcing this week it has halted… [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Midsize law firm Michelman & Robinson bets on Texas with Dallas office - Reuters",
+            "description": "Los Angeles-based midsize law firm Michelman & Robinson said Tuesday that it has opened its first Texas office, absorbing a small data privacy and cybersecurity-focused firm in Dallas.",
+            "url": "https://www.reuters.com/legal/legalindustry/midsize-law-firm-michelman-robinson-bets-texas-with-dallas-office-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/TrvyUMy5RrkX-CSTobjld4eB7O0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OAMFWLZ7RLQDKHSKEO5554TYA.jpg",
+            "publishedAt": "2022-01-11T11:32:00Z",
+            "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+2175 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Futures rise ahead of Fed Chair Powell's testimony - Reuters",
+            "description": "U.S. stock index futures rose on Tuesday as investors picked up beaten-down stocks ahead of Federal Reserve Chair Jerome Powell's testimony that may offer fresh insight on policy tightening and the central bank's plans to tackle inflation.",
+            "url": "https://www.reuters.com/business/futures-rise-ahead-fed-chair-powells-testimony-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/FupHel4l7iEuULi_EXrR_53XI28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LFN4RQO7QJLRRCXN2P2U44HFCY.jpg",
+            "publishedAt": "2022-01-11T12:23:00Z",
+            "content": "Jan 11 (Reuters) - U.S. stock index futures rose on Tuesday as investors picked up beaten-down stocks ahead of Federal Reserve Chair Jerome Powell's testimony that may offer fresh insight on policy t… [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "IPR tricks of the trade: discretionary institution when there is parallel ITC investigation - Reuters",
+            "description": "A third party who is not the patent owner may file a petition for inter partes review (IPR) to challenge the validity of an issued patent before the Patent Trial and Appeal Board. IPRs are frequently filed as part of a defense strategy to challenge the validi…",
+            "url": "https://www.reuters.com/legal/legalindustry/ipr-tricks-trade-discretionary-institution-when-there-is-parallel-itc-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/tijUfVY_TC3BfN4nyelVP3bmH90=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KLNXVI3PKZEMZK4AH75FY5YZ6U.jpg",
+            "publishedAt": "2022-01-11T15:12:00Z",
+            "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+6872 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "'Colonial wine from new, authoritarian bottles': Hong Kong re-tools sedition law - Reuters",
+            "description": "The Hong Kong government is expanding its use of a long-dormant sedition law in what some lawyers and democracy advocates say is intensifying a squeeze on press freedom.",
+            "url": "https://www.reuters.com/world/asia-pacific/colonial-wine-new-authoritarian-bottles-hong-kong-re-tools-sedition-law-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/8NYFuNXMe4W0ZiU7YnvyYGIIPIw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQ3GJ6YFN5MVZDFOONEF5IYC2A.jpg",
+            "publishedAt": "2022-01-11T08:50:00Z",
+            "content": "HONG KONG, Jan 11 (Reuters) - The Hong Kong government is expanding its use of a long-dormant sedition law in what some lawyers and democracy advocates say is intensifying a squeeze on press freedom.… [+7932 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Bansari Mayur Kamdar, Shreyashi Sanyal, Sinéad Carew",
+            "title": "US STOCKS-Wall Street bounces as Powell's testimony brings some relief - Reuters.com",
+            "description": "U.S. stock indexes were gaining ground on Tuesday with Nasdaq leading the advance as investors appeared relieved that Federal Reserve Chair Jerome Powell's testimony to Congress did not include any major surprises.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSKBN2JL14F",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20220111&t=2&i=1587420193&r=LYNXMPEI0A0HT&w=800",
+            "publishedAt": "2022-01-11T19:25:00Z",
+            "content": "(Reuters) - U.S. stock indexes were gaining ground on Tuesday with Nasdaq leading the advance as investors appeared relieved that Federal Reserve Chair Jerome Powells testimony to Congress did not in… [+3662 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "LIVE MARKETS Powell soothes sentiment after hawkish tone in Fed minutes - Reuters",
+            "description": "Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at <a href=\"mailto:markets.research@thomsonreuters.com\" target=\"_blank\">markets.research@thomsonreuters.com</a>",
+            "url": "https://www.reuters.com/markets/asia/live-markets-powell-soothes-sentiment-after-hawkish-tone-fed-minutes-2022-01-11/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+            "publishedAt": "2022-01-11T21:20:00Z",
+            "content": "Jan 11 - Welcome to the home for real-time coverage of markets brought to you by Reuters reporters. You can share your thoughts with us at markets.research@thomsonreuters.com\r\nPOWELL SOOTHES SENTIMEN… [+10572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Vincent Ni China affairs correspondent",
+            "title": "‘We fought the good fight’: journalists in Hong Kong reel from assault on media",
+            "description": "Newsrooms closures and exodus from territory are result of ‘draconian’ national security law introduced in 2020As the last news programme came to a close and anchors bade farewell to their online audience on 3 January, Chris Yeung, the founder and chief write…",
+            "url": "https://amp.theguardian.com/world/2022/jan/11/we-fought-the-good-fight-journalists-in-hong-kong-reel-from-assault-on-media",
+            "urlToImage": "https://i.guim.co.uk/img/media/59efb4f91c68bedefffd88084ecada32e204a6f3/0_138_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a77ce18cb28d9ca30ac66fbe74c4b37b",
+            "publishedAt": "2022-01-11T11:41:28Z",
+            "content": "As the last news programme came to a close and anchors bade farewell to their online audience on 3 January, Chris Yeung, the founder and chief writer of Citizen News, gathered together his staff and … [+9335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Anna Berrill",
+            "title": "What’s the best winter breakfast that isn’t porridge? | Kitchen aide",
+            "description": "Beans, muffins, fried rice and your faithful friend the egg: all warming alternatives to oaty mush• Got a culinary dilemma? Email feast@theguardian.comWhat’s a good, easy winter breakfast that isn’t porridge?Sarah, LudlowThis sounds like a job for Guardian pe…",
+            "url": "https://amp.theguardian.com/food/2022/jan/11/wanted-simple-warming-winter-breakfasts-recipes",
+            "urlToImage": "https://i.guim.co.uk/img/media/89a5443e3447ea2bbb0efe680fa1029205cca7c4/0_919_1210_726/master/1210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64892d52c8933ba32e5feb1a3342c03",
+            "publishedAt": "2022-01-11T14:00:19Z",
+            "content": "Whats a good, easy winter breakfast that isnt porridge?Sarah, Ludlow\r\nThis sounds like a job for Guardian perfectionist Felicity Cloake, who has been working her way through a buffet of breakfasts in… [+2843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Patrick Holland",
+            "title": "Sony Xperia 5 III review: A more balanced take on the Xperia 1 III - CNET",
+            "description": "The smaller, less expensive Xperia 5 III strikes a better balance for photographers, filmmakers, gamers and creative types than the larger Xperia 1 III.",
+            "url": "https://www.cnet.com/tech/mobile/sony-xperia-5-iii-review-a-more-balanced-take-on-the-xperia-1-iii/",
+            "urlToImage": "https://www.cnet.com/a/img/Wj4YoiIn3ppMsJTQgYbeYdD3tSU=/1200x630/2022/01/11/feab89d6-0f61-45d9-8d70-58410e552c39/p1018715-3.jpg",
+            "publishedAt": "2022-01-11T15:15:10Z",
+            "content": "The Sony Xperia 5 III packs nearly all of the Xperia 1 III's goodies into a smaller package.\r\nPatrick Holland/CNET\r\nThe Sony Xperia 5 III is further proof that the Tokyo-based company is on the right… [+9034 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zacks.com"
+            },
+            "author": "Zacks Equity Research",
+            "title": "Apple (AAPL) Reportedly Discussing Streaming Deal with MLB",
+            "description": "Apple (AAPL) is reportedly discussing a deal with Major League Baseball to stream weekday national games via its Apple TV+ streaming service.",
+            "url": "http://www.zacks.com/stock/news/1850417/apple-aapl-reportedly-discussing-streaming-deal-with-mlb?cid=CS-ENTREPRENEUR-FT-analyst_blog|company_news_tech_sector-1850417",
+            "urlToImage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412615.jpeg",
+            "publishedAt": "2022-01-11T16:09:00Z",
+            "content": "AppleAAPL is reportedly looking to stream Major League Baseball (MLB) games through its Apple TV+ streaming service.Per a New York Post article, the iPhone-maker is in serious discussions to stream w… [+3391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zacks.com"
+            },
+            "author": "Zacks Equity Research",
+            "title": "Should iShares Russell Top 200 Growth ETF (IWY) Be on Your Investing Radar?",
+            "description": "Style Box ETF report for IWY",
+            "url": "http://www.zacks.com/stock/news/1850030/should-ishares-russell-top-200-growth-etf-iwy-be-on-your-investing-radar?cid=CS-ENTREPRENEUR-FT-style_box_etf-1850030",
+            "urlToImage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412496.jpeg",
+            "publishedAt": "2022-01-11T11:20:10Z",
+            "content": "The iShares Russell Top 200 Growth ETF (IWY) was launched on 09/22/2009, and is a passively managed exchange traded fund designed to offer broad exposure to the Large Cap Growth segment of the US equ… [+4632 chars]"
+        }
+    ]
+}

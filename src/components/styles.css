@@ -1,0 +1,15 @@
+.btn{
+    margin: 5px;
+}
+
+hr {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    border: 0;
+    border-top: 1px solid rgba(221, 221, 221, 0.1);
+  }
+
+  .footer{
+      background-color: rgba(0, 0, 0, 0.733);
+      color: white;
+  }
